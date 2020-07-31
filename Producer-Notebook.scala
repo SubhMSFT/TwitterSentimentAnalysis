@@ -7,7 +7,7 @@
     import scala.concurrent.ExecutionContext.Implicits.global
     
     val namespaceName = " << fill here >> "
-    val eventHubName = " << fill here >> b"
+    val eventHubName = " << fill here >> "
     val sasKeyName = " << fill here >> "
     val sasKey = " << fill here >> "
     val connStr = new ConnectionStringBuilder()
